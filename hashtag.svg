@@ -2,29 +2,29 @@
 	 xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'  viewbox="0 0 40 40"
 	 xml:space='preserve'>
 
-  <symbol id="hashtag10" viewbox="0 0 10 10" style="stroke:rgb(250,250,250);stroke-width:1">
+  <g id="hashtag10" viewbox="0 0 10 10" style="stroke:rgb(250,250,250);stroke-width:1">
     <line x1="4" y1="0" x2="4" y2="10"  />
     <line x1="6" y1="0" x2="6" y2="10"  />
     <line x1="0" y1="4" x2="10" y2="4"  />
     <line x1="0" y1="6" x2="10" y2="6"  />
-  </symbol>
-  <symbol id="hashtag9" viewbox="0 10 10 10" style="stroke:rgb(250,250,250);stroke-width:1">
+  </g>
+  <g id="hashtag9" viewbox="0 10 10 10" style="stroke:rgb(250,250,250);stroke-width:1">
     <line x1="4" y1="0" x2="4" y2="10"  />
     <line x1="6" y1="0" x2="6" y2="10"  />
     <line x1="0" y1="4" x2="10" y2="4"  />
     <line x1="0" y1="6" x2="10" y2="6"  />
-  </symbol>
-  <symbol id="hashtag8" viewbox="0 20 10 10" style="stroke:rgb(250,250,250);stroke-width:1">
+  </g>
+  <g id="hashtag8" viewbox="0 20 10 10" style="stroke:rgb(250,250,250);stroke-width:1">
     <line x1="4" y1="0" x2="4" y2="10"  />
     <line x1="6" y1="0" x2="6" y2="10"  />
     <line x1="0" y1="4" x2="10" y2="4"  />
     <line x1="0" y1="6" x2="10" y2="6"  />
-  </symbol>
-  <symbol id="hashtag1" viewbox="0 30 10 10" style="stroke:rgb(250,250,250);stroke-width:1">
+  </g>
+  <g id="hashtag1" viewbox="0 30 10 10" style="stroke:rgb(250,250,250);stroke-width:1">
     <line x1="4" y1="0" x2="4" y2="10"  />
     <line x1="6" y1="0" x2="6" y2="10"  />
     <line x1="0" y1="4" x2="10" y2="4"  />
     <line x1="0" y1="6" x2="10" y2="6"  />
-  </symbol>
+  </g>
 </svg>
 
